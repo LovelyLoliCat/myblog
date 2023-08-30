@@ -8,16 +8,16 @@
     <author>
       <name>耗咂</name>
     </author>
-    <updated>2023-08-29T01:34:38.005Z</updated>
+    <updated>2023-08-29T01:36:00.000Z</updated>
     <category term="老鼠窝" />
     <category term="Mouse House" />
     <entry>
         <id>https://lovelylolicat.github.io/2023/08/29/finance-note/stock-note/01%E8%82%A1%E7%A5%A8%E6%8A%95%E8%B5%84%E7%9A%84%E5%9F%BA%E7%A1%80/</id>
-        <title></title>
+        <title>01股票投资的基础</title>
         <link rel="alternate" href="https://lovelylolicat.github.io/2023/08/29/finance-note/stock-note/01%E8%82%A1%E7%A5%A8%E6%8A%95%E8%B5%84%E7%9A%84%E5%9F%BA%E7%A1%80/"/>
         <content type="html">&lt;h1 id=&#34;股票投资的基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#股票投资的基础&#34;&gt;#&lt;/a&gt; 股票投资的基础&lt;/h1&gt;
 &lt;blockquote&gt;
-&lt;p&gt;翻译网站：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rYWJ1a2lzby5jb20vYmFzaWNzLw==&#34;&gt;株式投資の基本 (kabukiso.com)&lt;/span&gt;、&lt;/p&gt;
+&lt;p&gt;翻译网站：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rYWJ1a2lzby5jb20vYmFzaWNzLw==&#34;&gt;株式投資の基本 (kabukiso.com)&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;在本《股票投资的基础》中，我们将为股票初学者介绍从 &amp;quot;面对股票的态度&amp;quot; 到 &amp;quot;实际股票交易&amp;quot; 的内容。... 现在就让我们开始吧！&lt;/p&gt;
 &lt;h2 id=&#34;目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目录&#34;&gt;#&lt;/a&gt; 目录&lt;/h2&gt;
@@ -356,7 +356,10 @@
 &lt;p&gt;当在年度内确实发生了亏损时，需要在次年的 3 月 15 日之前向税务机关进行所得税申报。通过这种方式，接下来的 3 年内，在亏损范围内获利时，将不再征收税款（注：每年都需要进行申报）。&lt;/p&gt;
 &lt;p&gt;... 这里介绍的方法都&lt;strong&gt;需要自己办理&lt;/strong&gt;（进行所得税申报）。证券公司会提供年度交易报告，但不会为您办理退税手续。虽然有些麻烦，但由于可以确保节税效果，如果在年度内确实发生了亏损，请务必尝试一下（有关详细信息，请咨询您附近的税务机关）。&lt;/p&gt;
 </content>
-        <updated>2023-08-29T01:34:38.005Z</updated>
+        <category term="金融学习" scheme="https://lovelylolicat.github.io/categories/finance-note/" />
+        <category term="证券学习笔记" scheme="https://lovelylolicat.github.io/categories/finance-note/stock-note/" />
+        <category term="证券基础知识" scheme="https://lovelylolicat.github.io/categories/finance-note/stock-note/%E8%AF%81%E5%88%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/" />
+        <updated>2023-08-29T01:36:00.000Z</updated>
     </entry>
     <entry>
         <id>https://lovelylolicat.github.io/2023/08/25/language-note/japanese-note/n2%E8%AF%AD%E6%B3%9501/</id>
@@ -441,11 +444,11 @@
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
-          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;//cdn.jsdelivr.net/gh/lovelylolicat/myblog@latest/images/avatar.jpg&#34;&gt;&lt;/span&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/avatar.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;https://shoka.lostyu.me&lt;/p&gt;
-          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;//cdn.jsdelivr.net/gh/lovelylolicat/myblog@latest/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
@@ -783,7 +786,7 @@ H&lt;sub&gt;2&lt;/sub&gt;0&lt;br /&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;details class=&#34;success&#34;&gt;&lt;summary&gt;绿色&lt;/summary&gt;&lt;div&gt;
-&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;//cdn.jsdelivr.net/gh/lovelylolicat/myblog@latest/images/404.png&#34;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;https://shoka.lostyu.me&lt;/p&gt;
